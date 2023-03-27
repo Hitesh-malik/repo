@@ -1,0 +1,1 @@
+this file containe the motive of the repo
